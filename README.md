@@ -3,7 +3,7 @@
 
 --- 
 ## Why?
-An andoid application which performs the functions of an artificial intelligence recognition methods, using Clarifai's library and APIs.
+An andoid application which performs the functions of an artificial intelligence objects recognition methods, using Clarifai's library and APIs.
 You can run this projects's apk file on any android mobile phone and work on this project using Android Studio.
 
 ### Download the app from Play Store
