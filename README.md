@@ -1,5 +1,7 @@
 <h1 align="center">RecoPic Yalla</h1>
 <br />Recopic Yalla Android project, an application that is used for recognizing and predicting the elemets of a picture taken from your camera.
+
+--- 
 ## Why?
 An andoid application which performs the functions of an artificial intelligence recognition methods, using Clarifai's library and APIs.
 You can run this projects's apk file on any android mobile phone and work on this project using Android Studio.
