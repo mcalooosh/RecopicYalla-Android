@@ -34,3 +34,10 @@ Published on 28 June 2017
 Ali Obeid (@mcalooosh) <br/>
 Mariam Abdine (@mimi.ab.7) <br/>
 Computer Science Students at Lebanese International University
+
+## License
+You're free to use the code and the methods, Username and Key is required to use the API call
+<br/>
+You can get it from: https://developer.clarifai.com/signup/ 
+
+## Thank you
