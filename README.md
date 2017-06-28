@@ -31,6 +31,6 @@ Published on 28 June 2017
 </div>
 
 ## Who?
-Ali Obeid (@mcalooosh)
-Mariam Abdine (@mimi.ab.7)
+Ali Obeid (@mcalooosh) <br/>
+Mariam Abdine (@mimi.ab.7) <br/>
 Computer Science Students at Lebanese International University
