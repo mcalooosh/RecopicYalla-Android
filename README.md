@@ -16,5 +16,5 @@ You can run this projects's apk file on any android mobile phone and work on thi
 
 ---
 <div>
-  <img src="https://image.ibb.co/hv2eV5/Screenshot_2017_06_28_02_20_48.png" alt="Main Screen" height="700dp">
+  <img src="https://image.ibb.co/hv2eV5/Screenshot_2017_06_28_02_20_48.png" alt="Main Screen" height="500dp">
 </div>
