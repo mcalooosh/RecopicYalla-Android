@@ -1,7 +1,7 @@
-<h1 align="center">Country Picker for Android</h1>
+<h1 align="center">RecoPic Yalla</h1>
 <br />Recopic Yalla Android project, an application that is used for recognizing and predicting the elemets of a picture taken from your camera.
-<img src="https://image.ibb.co/hv2eV5/Screenshot_2017_06_28_02_20_48.png" width="360" height="640" />
-# CalculatorApp
+
+## When?
 Published on 28 June 2017
 -Ali Obeid's birthday :D-
 
