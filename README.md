@@ -27,6 +27,8 @@ Published on 28 June 2017
   <img src="https://image.ibb.co/hv2eV5/Screenshot_2017_06_28_02_20_48.png" alt="Main Screen" height="500dp">
 
   <img src="https://image.ibb.co/hekoOQ/Screenshot_2017_06_28_02_21_01.png" alt="Recognizing" height="500dp">
+  
+    <img src="https://image.ibb.co/ebxDq5/Screenshot_2017_06_28_02_21_30.png" alt="Recognizing" height="500dp">
 </div>
 
 ## Who?
